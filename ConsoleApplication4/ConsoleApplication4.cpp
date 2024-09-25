@@ -57,7 +57,7 @@ case 1: {
 case 2: {
     int lines_written;
     double desired_income;
-    cout << "Введіть кількість написаних рядків коду: ";
+    cout << "Enter the number of lines of code written: ";
     cin >> lines_written;
     cout << "Enter the desired amount of salary (in $): ";
     cin >> desired_income;
